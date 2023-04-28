@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 Homework-course
-README changed
+Просматривать ветку master для рецензии
