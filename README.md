@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 Homework-course
-Просматривать ветку master для рецензии
+СМОТРИТЕ ВЕТКУ master, этот файл лежит в main
